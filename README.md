@@ -91,40 +91,10 @@ Admin dapat login ke dashboard Filament.
 
 ---
 
-### ✔ List Books (Data Terseed)
-
-Menampilkan daftar buku yang telah disediakan melalui seeder.
-
-**Screenshot:** ![7](https://github.com/user-attachments/assets/cd54da1f-04e4-4172-a6bc-1aa471ceb64f)
-
-
----
-
 ### ✔ Form Create Book
 
 Form untuk menambahkan buku baru, lengkap dengan upload cover.
 
 **Screenshot:** (<img width="3456" height="2234" alt="image" src="https://github.com/user-attachments/assets/96acb2d4-e162-4710-8e53-10c2e952a8f0" />
 )
-
-
----
-
-### ✔ Hasil Pencarian (Search)
-
-Menampilkan hasil ketika admin menggunakan fitur pencarian.
-
-**Screenshot:** ![6](https://github.com/user-attachments/assets/23a004fa-37a8-40ee-b97a-be847955cd59)
-
-
----
-
-### ✔ Filter Aktif
-
-Menampilkan halaman ketika filter diterapkan pada daftar buku.
-
-**Screenshot:** 
-
----![7](https://github.com/user-attachments/assets/39228680-70fe-4be4-b3ae-1d520067cc88)
-
 
