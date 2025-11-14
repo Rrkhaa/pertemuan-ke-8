@@ -57,3 +57,74 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+**Library Management System — Laravel + Filament Admin Panel**
+==
+Nama: Rakha Abhirama
+NPM: 4523210088
+==
+
+# 📚 Library Management – Filament Laravel
+
+Project ini merupakan implementasi **CRUD Library Management** menggunakan **Laravel + Filament Admin Panel**.
+Fitur yang dibuat mencakup:
+
+* Autentikasi Admin
+* Manajemen Author
+* Manajemen Books (Create, Read, Update, Delete)
+* Upload Cover Image
+* Pencarian (Search)
+* Filter Data
+* Seeder untuk data awal
+
+---
+
+## 🚀 Fitur Utama
+
+### ✔ Admin Panel Login
+
+Admin dapat login ke dashboard Filament.
+
+**Screenshot:** (<img width="1728" height="1117" alt="Screenshot 2025-11-14 at 10 07 31" src="https://github.com/user-attachments/assets/b61208e7-6fff-4007-9a8e-84b7ca06fbcc" />
+)
+
+
+---
+
+### ✔ List Books (Data Terseed)
+
+Menampilkan daftar buku yang telah disediakan melalui seeder.
+
+**Screenshot:** ![7](https://github.com/user-attachments/assets/cd54da1f-04e4-4172-a6bc-1aa471ceb64f)
+
+
+---
+
+### ✔ Form Create Book
+
+Form untuk menambahkan buku baru, lengkap dengan upload cover.
+
+**Screenshot:** (<img width="3456" height="2234" alt="image" src="https://github.com/user-attachments/assets/96acb2d4-e162-4710-8e53-10c2e952a8f0" />
+)
+
+
+---
+
+### ✔ Hasil Pencarian (Search)
+
+Menampilkan hasil ketika admin menggunakan fitur pencarian.
+
+**Screenshot:** ![6](https://github.com/user-attachments/assets/23a004fa-37a8-40ee-b97a-be847955cd59)
+
+
+---
+
+### ✔ Filter Aktif
+
+Menampilkan halaman ketika filter diterapkan pada daftar buku.
+
+**Screenshot:** 
+
+---![7](https://github.com/user-attachments/assets/39228680-70fe-4be4-b3ae-1d520067cc88)
+
+
