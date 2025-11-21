@@ -60,6 +60,11 @@ class BookResource extends Resource
                             ])
                             ->required()
                             ->default('available'),
+
+                        Forms\Components\Textarea::make('description') 
+                            ->maxLength(65535)
+                            ->columnSpanFull(), 
+
                     ])
                     ->columns(2),
                 
@@ -162,7 +167,7 @@ class BookResource extends Resource
     public static function getRelations(): array
     {
         return [
-            //
+            // Tambahkan relasi kategori jika sudah membuat BookResource\RelationManagers\CategoriesRelationManager
         ];
     }
 
@@ -176,4 +181,3 @@ class BookResource extends Resource
         ];
     }
 }
-

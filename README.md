@@ -57,4 +57,48 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<<<<<<< HEAD
 # Pertemuan_ke-9-pbw
+=======
+
+**Library Management System — Laravel + Filament Admin Panel**
+==
+Nama: Rakha Abhirama
+NPM: 4523210088
+==
+
+# 📚 Library Management – Filament Laravel
+
+Project ini merupakan implementasi **CRUD Library Management** menggunakan **Laravel + Filament Admin Panel**.
+Fitur yang dibuat mencakup:
+
+* Autentikasi Admin
+* Manajemen Author
+* Manajemen Books (Create, Read, Update, Delete)
+* Upload Cover Image
+* Pencarian (Search)
+* Filter Data
+* Seeder untuk data awal
+
+---
+
+## 🚀 Fitur Utama
+
+### ✔ Admin Panel Login
+
+Admin dapat login ke dashboard Filament.
+
+**Screenshot:** (<img width="1728" height="1117" alt="Screenshot 2025-11-14 at 10 07 31" src="https://github.com/user-attachments/assets/b61208e7-6fff-4007-9a8e-84b7ca06fbcc" />
+)
+
+
+---
+
+### ✔ Form Create Book
+
+Form untuk menambahkan buku baru, lengkap dengan upload cover.
+
+**Screenshot:** (<img width="3456" height="2234" alt="image" src="https://github.com/user-attachments/assets/96acb2d4-e162-4710-8e53-10c2e952a8f0" />
+)
+
+>>>>>>> 3c5c91608027e2ba5dcc81667596d754d7b0fb9d
