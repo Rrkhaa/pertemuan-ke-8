@@ -102,3 +102,31 @@ Form untuk menambahkan buku baru, lengkap dengan upload cover.
 )
 
 >>>>>>> 3c5c91608027e2ba5dcc81667596d754d7b0fb9d
+
+Tugas pertemuan 9: Kustomisasi & Pengembangan**
+
+### **Rakha Abhirama — NPM 4523210088**
+
+Dokumentasi ini berisi seluruh implementasi pada **Tugas 2** yang meliputi penambahan fitur baru, migrasi, role-based access, widget dashboard, serta kategori buku.
+
+
+# 📸 **Dokumentasi Screenshot**
+
+Tambahkan semua screenshot Anda pada bagian berikut:
+<img width="1728" height="1117" alt="Screenshot 2025-11-21 at 10 36 32" src="https://github.com/user-attachments/assets/7e3af044-36f1-4cd3-9006-f3ee522c1eb2" />
+<img width="1728" height="1117" alt="Screenshot 2025-11-21 at 10 36 39" src="https://github.com/user-attachments/assets/4c7740c1-5f98-4fee-921e-294dbb07d108" />
+<img width="1728" height="1117" alt="Screenshot 2025-11-21 at 10 36 44" src="https://github.com/user-attachments/assets/156bb409-5642-49d8-98a0-65efebda0356" />
+<img width="1728" height="1117" alt="Screenshot 2025-11-21 at 10 36 49" src="https://github.com/user-attachments/assets/abb6c876-54d0-4f3d-97ee-3ca13e19447c" />
+<img width="1728" height="1117" alt="Screenshot 2025-11-21 at 10 36 55" src="https://github.com/user-attachments/assets/08a26038-e847-489d-b96c-808b303a925d" />
+<img width="1728" height="1117" alt="Screenshot 2025-11-21 at 10 37 03" src="https://github.com/user-attachments/assets/2c9875ed-51b4-473e-9a08-8e547e183138" />
+<img width="1728" height="1117" alt="Screenshot 2025-11-21 at 10 37 16" src="https://github.com/user-attachments/assets/d0a74934-b40f-431c-a091-78495f8c10d1" />
+<img width="1728" height="1117" alt="Screenshot 2025-11-21 at 10 37 21" src="https://github.com/user-attachments/assets/98bd25a4-93da-44c3-919a-fb7ff12e721b" />
+
+
+
+
+
+
+
+
+
